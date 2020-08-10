@@ -1,7 +1,6 @@
 ###  Howdy 🤠
 
-### I have about 4 years of professional experience doing software development for the Government or FinTech. I have a passion for investing and helping others 
-### invest so that they can reach and maximize their financial goals in life.
+### I have about 4 years of professional experience doing software development for the Government or FinTech. I have a passion for investing and helping others invest so that they can reach and maximize their financial goals in life.
 
 
 - 🔭 I’m currently working on a Shogi Game in Python
