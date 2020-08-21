@@ -8,4 +8,3 @@
 - 🌈 Some goals I have this year are to get my AWS Dev Cert, and begin my journey into the data science / ML world.
 - 📙 Effective Python, Effective Java
 - ❤️ C++ / Java / Python
-- 🐦 @annoytheworld
