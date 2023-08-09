@@ -7,5 +7,4 @@ Somethings I want to explore in my career are and helping build the tools enterp
 This year, some of my goals are...
 
 - 🤝 Contributing more to Open Source!
-- 🦀 Learning Rust
 - 📣 Becoming more social!
