@@ -1,6 +1,6 @@
 ###  Howdy 🤠
 
-### I have about 6 years of professional experience doing software development for Government and Financial Institutions. I have a passion for removing manual processes, and making developers lives easier.
+### I have about 6 years of professional experience doing software development for Government and Financial Institutions. I have a passion for making developers lives easier.
 
 Somethings I want to explore in my career are and helping build the tools enterprise infrastructure relies on!
 
