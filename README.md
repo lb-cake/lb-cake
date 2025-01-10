@@ -7,4 +7,8 @@ I've got a passion for open source, backend, and infrastructure.
 ** this week i spent my time on **
 <!--START_SECTION:waka-->
 
+```txt
+tmux   9 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
