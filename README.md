@@ -8,8 +8,10 @@ I've got a passion for open source, backend, and infrastructure.
 <!--START_SECTION:waka-->
 
 ```txt
-tmux   9 mins          ██████████████████████░░░   87.46 %
-YAML   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+Go      27 mins         █████████████████▓░░░░░░░   70.76 %
+tmux    9 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
+YAML    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
