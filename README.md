@@ -8,11 +8,7 @@ I've got a passion for open source, backend, and infrastructure.
 <!--START_SECTION:waka-->
 
 ```txt
-Go      17 mins         ██████████▓░░░░░░░░░░░░░░   43.04 %
-Lua     17 mins         ██████████▒░░░░░░░░░░░░░░   41.68 %
-Other   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-JSON    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Bash    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
