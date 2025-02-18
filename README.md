@@ -8,7 +8,9 @@ I've got a passion for open source, backend, and infrastructure.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go           1 hr 1 min      ████████████████████████▒   97.78 %
+Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
