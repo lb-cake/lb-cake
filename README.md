@@ -11,9 +11,9 @@ Somethings I spend my times on are,
 <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hr 27 mins    ████████████████████████▓   98.44 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Go           1 hr 33 mins    ████████████████████████▓   98.53 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
