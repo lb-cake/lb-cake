@@ -5,7 +5,7 @@
 I've got a passion for open source, backend, and infrastructure.
 
 Somethings I spend my times on are,
-[![Somethings I work on]https://skillicons.dev/icons?i=aws,go,py,kubernetes,docker,grafanalinux,&perline=3)](https://skillicons.dev)
+[![Somethings I work on](https://skillicons.dev/icons?i=aws,go,py,kubernetes,docker,grafanalinux,&perline=3)](https://skillicons.dev)
 
 ** this week i spent my time on **
 <!--START_SECTION:waka-->
