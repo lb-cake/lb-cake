@@ -11,7 +11,7 @@ Somethings I spend my times on are,
 <!--START_SECTION:waka-->
 
 ```txt
-Go   5 mins          █████████████████████████   100.00 %
+Bash   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
