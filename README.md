@@ -11,7 +11,7 @@ Somethings I spend my times on are,
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   3 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
