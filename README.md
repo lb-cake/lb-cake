@@ -11,7 +11,11 @@ Somethings I spend my times on are,
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   7 mins          █████████░░░░░░░░░░░░░░░░   35.50 %
+YAML         6 mins          ███████░░░░░░░░░░░░░░░░░░   27.86 %
+Markdown     4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
+Go           3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+Docker       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
