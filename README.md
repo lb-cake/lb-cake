@@ -11,11 +11,11 @@ Somethings I spend my times on are,
 <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hr 24 mins    ███████████████▓░░░░░░░░░   63.09 %
-YAML         15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-TypeScript   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-Docker       12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Go           2 hrs 39 mins   ███████████████████░░░░░░   76.37 %
+YAML         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+TypeScript   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Docker       12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
