@@ -11,7 +11,10 @@ Somethings I spend my times on are,
 <!--START_SECTION:waka-->
 
 ```txt
-Go   1 hr 15 mins    █████████████████████████   100.00 %
+Go           11 mins         ███████████████████░░░░░░   75.61 %
+Git Config   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
+Bash         1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
