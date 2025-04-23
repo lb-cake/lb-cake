@@ -11,11 +11,7 @@ Somethings I spend my times on are,
 <!--START_SECTION:waka-->
 
 ```txt
-Go      43 mins         ███████████████████░░░░░░   75.97 %
-YAML    6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-Bash    5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-JSON    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
