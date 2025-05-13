@@ -11,7 +11,8 @@ Somethings I spend my times on are,
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go       11 mins         ███████████████▓░░░░░░░░░   62.57 %
+Docker   6 mins          █████████▒░░░░░░░░░░░░░░░   37.43 %
 ```
 
 <!--END_SECTION:waka-->
